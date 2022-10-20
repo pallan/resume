@@ -1,0 +1,112 @@
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  31 OCT 2012 17:19
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**aus_cover.tex
+(./aus_cover.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman-x-2012-05-30, ngerman-x-2012-05-30, afrikaans, ancientgreek, ibycus, arabi
+c, armenian, basque, bulgarian, catalan, pinyin, coptic, croatian, czech, danis
+h, dutch, ukenglish, usenglishmax, esperanto, estonian, ethiopic, farsi, finnis
+h, french, friulan, galician, german, ngerman, swissgerman, monogreek, greek, h
+ungarian, icelandic, assamese, bengali, gujarati, hindi, kannada, malayalam, ma
+rathi, oriya, panjabi, tamil, telugu, indonesian, interlingua, irish, italian, 
+kurmanji, latin, latvian, lithuanian, mongolian, mongolianlmc, bokmal, nynorsk,
+ polish, portuguese, romanian, romansh, russian, sanskrit, serbian, serbianc, s
+lovak, slovenian, spanish, swedish, turkish, turkmen, ukrainian, uppersorbian, 
+welsh, loaded.
+(/usr/local/texlive/2012/texmf-dist/tex/latex/base/letter.cls
+Document Class: letter 1999/04/29 v1.2z Standard LaTeX document class
+(/usr/local/texlive/2012/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\longindentation=\dimen102
+\indentedwidth=\dimen103
+\labelcount=\count79
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/opensans/opensans.sty
+Package: opensans 2011/11/11 Opensans
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/slantsc/slantsc.sty
+Package: slantsc 2012/01/01 v2.11 Provide Slanted an Italic Small Caps
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+LaTeX Info: Redefining \upshape on input line 35.
+LaTeX Info: Redefining \slshape on input line 45.
+LaTeX Info: Redefining \itshape on input line 55.
+LaTeX Info: Redefining \scshape on input line 65.
+))
+(/usr/local/texlive/2012/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+)) (./aus_cover.aux)
+\openout1 = `aus_cover.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Try loading font information for T1+fosj on input line 32.
+ (/usr/local/texlive/2012/texmf-dist/tex/latex/opensans/t1fosj.fd
+File: t1fosj.fd 2011/11/11 Fontinst v1.927 font definitions for T1/fosj.
+)
+LaTeX Font Info:    Font shape `T1/fosj/m/n' will be
+(Font)              scaled to size 10.40245pt on input line 32.
+LaTeX Font Info:    Font shape `T1/fosj/m/n' will be
+(Font)              scaled to size 11.39996pt on input line 45.
+LaTeX Font Info:    Font shape `T1/fosj/bx/n' in size <12> not available
+(Font)              Font shape `T1/fosj/b/n' tried instead on input line 45.
+LaTeX Font Info:    Font shape `T1/fosj/b/n' will be
+(Font)              scaled to size 11.39996pt on input line 45.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 69.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 69.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 69.
+LaTeX Font Info:    Font shape `T1/fosj/m/n' will be
+(Font)              scaled to size 9.49997pt on input line 79.
+ [1
+
+{/usr/local/texlive/2012/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./aus_
+cover.aux) ) 
+Here is how much of TeX's memory you used:
+ 589 strings out of 493488
+ 7789 string characters out of 3141326
+ 52748 words of memory out of 3000000
+ 3941 multiletter control sequences out of 15000+200000
+ 23514 words of font info for 36 fonts, out of 3000000 for 9000
+ 957 hyphenation exceptions out of 8191
+ 27i,6n,23p,577b,231s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/local/texlive/2012/texmf-dist/fonts/enc/dvips/opensans/opensa
+ns-03.enc}{/usr/local/texlive/2012/texmf-dist/fonts/enc/dvips/opensans/opensans
+-04.enc}{/usr/local/texlive/2012/texmf-dist/fonts/enc/dvips/opensans/opensans-0
+1.enc}</usr/local/texlive/2012/texmf-dist/fonts/type1/public/opensans/OpenSans-
+Bold.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/opensans/OpenSa
+ns-Regular.pfb>
+Output written on aus_cover.pdf (1 page, 30928 bytes).
+PDF statistics:
+ 25 PDF objects out of 1000 (max. 8388607)
+ 19 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

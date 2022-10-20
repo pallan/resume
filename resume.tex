@@ -1,0 +1,116 @@
+%-----------------------------------------
+% Michael Wright
+% Resumé
+%
+% URL: http://github.com/mdwrigh2/resume
+% This document is covered under the Creative Commons Attribution 3.0 Unported License
+%-----------------------------------------
+
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+
+\documentclass[11pt,letterpaper,final]{moderncv}
+\usepackage{fontspec}
+\moderncvtheme[darkred]{classic}
+
+% DOCUMENT LAYOUT
+\usepackage[scale=0.85]{geometry}
+\setlength{\hintscolumnwidth}{2cm}
+\AtBeginDocument{\recomputelengths}
+% FONTS
+\usepackage[utf8]{inputenc}
+\defaultfontfeatures{Mapping=tex-text} % converts LaTeX specials (``quotes'' --- dashes etc.) to unicode
+
+% Remove % to set to different fonts
+%\setromanfont [Ligatures={Common},Numbers={OldStyle}]{Adobe Caslon Pro}
+%\setmonofont[Scale=0.8]{Monaco} 
+
+% ---- CUSTOM AMPERSAND
+\newcommand{\amper}{{\fontspec[Scale=.95]{Adobe Caslon Pro}\selectfont\itshape\&}}
+
+% ---- MARGIN YEARS
+%\newcommand{\years}[1]{\marginpar{\scriptsize #1}}
+
+
+% PDF SETUP
+% ---- FILL IN HERE THE DOC TITLE AND AUTHOR
+
+
+% Personal Inofrmation
+\firstname{Peer}
+\familyname{Smith}
+\address{27 Jupiter Bay}{Winnipeg, MB Canada R3T 0W5}
+\mobile{(204) 292-1199}
+\email{pallan@allanweb.ca}
+
+\nopagenumbers{}
+
+\begin{document}
+
+\maketitle
+\section{Key Skills} 
+  \cvline{Leadership:}{Team Lead, Facilitator, Product Management, IT Strategy, IT Management, Conflict Resolution}
+  \cvline{Agile:}{SCRUM, Kanban, Certified ScrumMaster, User Stories, Business Analysis}
+  \cvline{Web:}{RubyOnRails, Sinatra, PHP, HTML, CSS, JavaScript, jQuery, AJAX, REST, eCommerce}
+  \cvline{Development:}{Software Design, Automated Testing, Continuous Integration, Continuous Deployment, git, Subversion, XML}
+  \cvline{DevOps:}{Linux, MySQL, Apache, MacOS X, Ruby, PHP, bash, Solr, Redis, Jenkins, Capistrano, Web Infrastructure Planning }
+\section{Experience} 
+  \cventry{Mar 2011 -- Present}{Manager of Software Development}{CanadaDrugs.com}{Winnipeg, MB}{}{
+    \begin{itemize}
+      \item Manage migrations of multiple competitor's business systems into the existing business system
+      \item Led upgrade of business systems to RubyOnRails 3.2 and Ruby 2.0.0
+      \item Mentoring, coaching \& providing professional development opportunities to software developers
+      \item Project Management of multiple IT and software development projects
+      \item Exercising continual improvement with development team processes
+      \item Develop and enforce standards and processes used by the development teams
+      \item Perform regular performance appraisals of team members
+      \item Coordinate all software development work across all company departments
+      \item Ensure proper support for the company's hardware infrastructure
+    \end{itemize}
+  }
+
+  \cventry{Apr 2008 -- Mar 2011}{Development Team Lead}{CanadaDrugs.com}{Winnipeg, MB}{}{
+    \begin{itemize}
+      \item Led 2 Agile development teams in the creation of a web-based enterprise business application to replace the primary business system
+      \item Successfully coordinated the work of a 8 person internal development team with a 4 person remote development team during the project
+      \item Planned, architected and implemented systems with the development teams
+      \item Coordinated with the SysAdmin team to design the server infrastructure to support internal applications
+      \item Configured and tuned production server environment which includes MySQL, Apache, HAProxy, Passenger and Ruby on both physical and virtual machines
+      \item Successfully launched the new application on time after 20 months of development including a full data migration
+      \item Successfully transitioned into the Product Manager for continued development and maintenance of the new system
+      \item Successfully led the team through multiple technology transitions: Subversion to Git, Prototype to jQuery
+      \item Continually developed improved processes and procedures with the team through facilitation of retrospective meetings
+      \item Contributed back to the open source Ruby community by committing patches back to projects
+    \end{itemize}
+  }
+  
+  \cventry{Nov 2004 -- Apr 2008}{Senior Web Developer}{CanadaDrugs.com}{Winnipeg, MB}{}{
+    \begin{itemize}
+      \item Continued development and maintenance of the PHP e-Commerce framework developed at my previous position as an external supplier
+      \item Migrated the custom framework that operated the eCommerce websites from PHP3 to PHP4 and then to PHP5
+      \item Integrated website administrative systems with the internal business software using an custom XML API
+      \item Implemented source control management process and procedures for the development team
+      \item Successfully championed \& transitioned the move to Agile development practices in the company
+      \item Spearheaded the department's transition from PHP to Ruby
+      \item Mentored and trained the existing team members on Ruby and RubyOnRails during the transition
+      \item Performed system administration tasks to support for company Linux servers
+    \end{itemize}
+  }
+  
+  \cventry{Jun 2001 -- Oct 2004}{Web Developer}{Cocoon Branding Inc.}{Winnipeg, MB}{}{
+    \begin{itemize}
+      \item Development of backend XML \& PHP framework that supported customer travel websites
+      \item Developed a custom MVC e-Commerce solution in PHP to support online product sales for CanadaDrugs.com
+    \end{itemize}
+  }
+
+\section{Certifications/Training}
+  \cvlistitem{Certified SCRUM Master (CSM)}
+  \cvlistitem{ITIL Foundation Certified}
+  \cvlistitem{Adaptive Path User Experience Week 2003.  This conference focused on the design and development of websites to achieve a high level of relevance and usability to the target users.}
+  \cvlistitem{Contributor to open source projects - see \url{https://github.com/pallan}}
+
+\section{Education}
+\cventry{}{Bachelors of Science (General)}{University of Manitoba, Winnipeg, MB, Canada}{}{}{}
+
+\end{document}

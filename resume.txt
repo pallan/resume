@@ -1,0 +1,65 @@
+Peer Allan
+27 Jupiter Bay Winnipeg, MB Canada R3T 0W5
+(204) 292-1199
+pallan@allanweb.ca
+
+Key Skills
+
+Leadership: Team Lead, Facilitator, Product Management, IT Strategy, IT Management, Conflict Resolution
+Agile: SCRUM, Kanban, Certified ScrumMaster, User Stories, Business Analysis
+Web: RubyOnRails, Sinatra, PHP, HTML, CSS, JavaScript, jQuery, AJAX, REST, eCommerce
+Development: Software Design, Automated Testing, Continuous Integration, Continuous Deployment, git, Subver- sion, XML
+DevOps: Linux, MySQL, Apache, MacOS X, Ruby, PHP, bash, Solr, Redis, Jenkins, Capistrano, Web Infras- tructure Planning
+
+Experience
+
+Mar 2011 – Present: Manager of Software Development, CanadaDrugs.com, Winnipeg, MB.
+* Manage migrations of two competitor’s business systems into the existing business system
+* Mentoring, coaching & providing professional development opportunities to staff
+* Project Management of multiple IT and software development projects
+* Exercising continual improvement with development team processes
+* Reporting the progress of team products to the other departments in the company
+* Prioritizing requests for work for development projects based on corporate objectives
+* Enforce development standards and practices used by the development teams
+* Perform regular performance appraisals of team members
+* Developing strong professional relationships with the other departments of the company
+* Ensure proper support for the company’s hardware infrastructure
+
+Apr 2008 – Mar 2011: Development Team Lead, CanadaDrugs.com, Winnipeg, MB.
+* Led 2 Agile development teams in the creation of a web-based enterprise business application to replace the primary business system
+* Successfully coordinated the work of a 8 person internal development team with a 4 person remote devel- opment team during the project
+* Worked with the development teams to design, architect and implement the new system
+* Worked with the SysAdmin team in the design the server infrastructure to supports the internal application
+* Configured and tuned the production server environment which includes MySQL, Apache, HAProxy, Pas- senger and Ruby on both physical and virtual machines
+* Successfully launched the new application on time after 20 months of development including a full data migration
+* Successfully transitioned into the Product Manager for continued development and maintenance of the new system
+* Successfully led the team through multiple technology transitions: Subversion to Git, Prototype to jQuery
+* Continually developed improved processes and procedures with the team through facilitation of retrospective meetings
+* Contributed back to the open source Ruby community by committing patches back to projects
+
+Nov 2004 – Apr 2008: Senior Web Developer, CanadaDrugs.com, Winnipeg, MB.
+* Continued development and maintenance of the PHP e-Commerce framework developed at my previous position as an external supplier
+* Migrated the custom framework that operated the eCommerce websites from PHP3 to PHP4 and then to PHP5
+* Integrated website administrative systems with the internal business software using an custom XML API
+* Implemented source control management process and procedures for the development team
+* Successfully championed & transitioned the move to Agile development practices in the company
+* Spearheaded the department’s transition from PHP to Ruby
+* Mentored and trained the existing team members on Ruby and RubyOnRails during the transition
+* Performed system administration tasks to support for company Linux servers
+
+Jun 2001 – Oct 2004: Web Developer, Cocoon Branding Inc., Winnipeg, MB.
+* Development of backend XML & PHP framework that supported customer travel websites
+* Developed a custom MVC e-Commerce solution in PHP to support online product sales for CanadaDrugs.com
+
+Certifications/Training
+
+* Certified SCRUM Master (CSM)
+* ITIL Foundation Certified
+* Adaptive Path User Experience Week 2003. This conference focused on the design and development of websites to achieve a high level of relevance and usability to the target users.
+* Contributor to open source projects - see https://github.com/pallan
+
+Education
+
+Bachelors of Science (General), University of Manitoba, Winnipeg, MB, Canada.
+
+￼￼
